@@ -11,3 +11,16 @@ C:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.
 C:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.dll
 C:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.pdb
 C:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.genruntimeconfig.cache
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.exe
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.deps.json
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.runtimeconfig.json
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.runtimeconfig.dev.json
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.dll
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\bin\Debug\netcoreapp3.1\DFU Calculator.pdb
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.csprojAssemblyReference.cache
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.AssemblyInfoInputs.cache
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.AssemblyInfo.cs
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.csproj.CoreCompileInputs.cache
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.dll
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.pdb
+E:\Users\dchec\source\repos\DFU Calculator\DFU Calculator\obj\Debug\netcoreapp3.1\DFU Calculator.genruntimeconfig.cache
